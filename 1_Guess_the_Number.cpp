@@ -6,7 +6,7 @@ int main(void)
     int low = 1;
     int high = 1000000;
 
-    int guess = low + (high - low + 1) / 2;;
+    int guess = low + (high - low + 1) / 2;
 
     while (low < high)
     {
